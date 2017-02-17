@@ -7,5 +7,7 @@ target 'V2FirebaseNotificationsPOC' do
 
   # Pods for V2FirebaseNotificationsPOC
 	pod 'Firebase/Core'
+    pod 'Firebase/Messaging'
+
 
 end

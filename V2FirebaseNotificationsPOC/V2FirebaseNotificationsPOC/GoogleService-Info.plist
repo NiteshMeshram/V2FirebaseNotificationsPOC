@@ -7,19 +7,19 @@
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
 	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>278595688709-lm8qvp4gtab5gc1s9gacod3fluf0elgh.apps.googleusercontent.com</string>
+	<string>937395621462-ceusaojg30qmp34nlonhn0ul7tm6k7r7.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.278595688709-lm8qvp4gtab5gc1s9gacod3fluf0elgh</string>
+	<string>com.googleusercontent.apps.937395621462-ceusaojg30qmp34nlonhn0ul7tm6k7r7</string>
 	<key>GCM_SENDER_ID</key>
-	<string>278595688709</string>
+	<string>937395621462</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>com.v2solutions.FNS-Health.QA</string>
 	<key>PROJECT_ID</key>
-	<string>v2firebasenotificationsp-7daa4</string>
+	<string>v2firbasepoc</string>
 	<key>STORAGE_BUCKET</key>
-	<string>v2firebasenotificationsp-7daa4.appspot.com</string>
+	<string>v2firbasepoc.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<true/>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -31,8 +31,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true/>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:278595688709:ios:a1d07e6fd934b5b7</string>
+	<string>1:937395621462:ios:a1d07e6fd934b5b7</string>
 	<key>DATABASE_URL</key>
-	<string>https://v2firebasenotificationsp-7daa4.firebaseio.com</string>
+	<string>https://v2firbasepoc.firebaseio.com</string>
 </dict>
 </plist>

@@ -9,6 +9,11 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>Kingfisher.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>Pods-V2FirebaseNotificationsPOC.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -17,12 +22,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>1DE93A359FA21F91DFBE81309E851A4A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>A39AE9B86CF2AEB697C25DF98BAFEBF1</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>CD1A8F71F938F9F6CE899958BCC7E218</key>
+		<key>DDBC7B37937DB6A890D201262E0C583B</key>
 		<dict>
 			<key>primary</key>
 			<true/>

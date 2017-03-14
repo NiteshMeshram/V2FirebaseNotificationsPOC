@@ -87,7 +87,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         application.registerForRemoteNotifications()
         
         // [END register_for_notifications]
-        FIRApp.configure()
+//        FIRApp.configure()
         
         // [START add_token_refresh_observer]
         // Add observer for InstanceID token refresh callback.
